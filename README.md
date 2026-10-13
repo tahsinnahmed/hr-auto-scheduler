@@ -1,6 +1,6 @@
 # HR Auto Scheduler
 
-> Automated shift replacement for emergency leaves — detects a callout, ranks available staff, emails them, and confirms the replacement. No phone calls. No spreadsheets. No manual follow-up.
+Automated shift replacement for emergency leaves — detects a callout, ranks available staff, emails them, and confirms the replacement. No phone calls. No spreadsheets. No manual follow-up.
 
 ## System Architecture
 
@@ -79,6 +79,11 @@ Every candidate receives a personalized offer. First to accept wins.
 ### Employee Roster
 
 <img width="1909" height="876" alt="HRAS 6" src="https://github.com/user-attachments/assets/6c4083bd-4e75-4a04-a5ad-f64c30d1a754" />
+
+### Email Sent to Employee
+
+<img width="1915" height="903" alt="HRAS 7" src="https://github.com/user-attachments/assets/43c557ec-476f-4084-903d-d3cbc53c875f" />
+
 
 ---
 
